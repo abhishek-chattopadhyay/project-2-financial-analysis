@@ -1,12 +1,12 @@
 # Effect of Economic Indicators on Financial Market: A Data-driven Analysis
 
 
-# Objective of this project
+## Objective of this project
 
 
-# Data Sources
+## Data Sources
 
 
-# Description of the data
+## Description of the data
 
 
