@@ -6,9 +6,9 @@ you will gain a deeper understanding of how these tools complement each other in
 structuring, exploring patterns, and visualizing findings before translating them into actionable insights.
 
 # Project Overview
-- Pick a topic and choose a dataset.
-- Data Analysis: Understand your dataset and create a report (e.g., Word document) summarizing it.
-- Data Exploration and Business Understanding:
+- **Pick a topic and choose a dataset.**
+- **Data Analysis**: Understand your dataset and create a report (e.g., Word document) summarizing it.
+- **Data Exploration and Business Understanding**
 
 ## Dataset Sources:
 - Kaggle
@@ -16,7 +16,7 @@ structuring, exploring patterns, and visualizing findings before translating the
 - PorData
 - datahub.io
   
-# Bonus Points
+## Bonus Points
 - Augment your data with web scraping.
 - Include visualizations from Python and/or Tableau in the final presentation.
 - Apply statistical tests like Chi-Square or others if they make sense.
@@ -25,14 +25,14 @@ structuring, exploring patterns, and visualizing findings before translating the
 - Use SQL to create a database with your data.
 
 
-# Mandatory Deliverables
-- Presentation: 8–15 minutes per person.
-- Python Code: Well-documented Python script covering:
+## Mandatory Deliverables
+- **Presentation**: 8–15 minutes per person.
+- **Python Code**: Well-documented Python script covering:
   - At least one use of lambda, apply...
   - At least two groupby operations and aggregations.
   - At least one frequency table.
-- Visualization: Minimum of three plots showcasing univariate and multivariate analysis (bonus to do it also in Tableau dashboard).
-- README File: A comprehensive README explaining the project, dataset, methodology, and results.
+- **Visualization**: Minimum of three plots showcasing univariate and multivariate analysis (bonus to do it also in Tableau dashboard).
+- **README File**: A comprehensive README explaining the project, dataset, methodology, and results.
 
 
 
