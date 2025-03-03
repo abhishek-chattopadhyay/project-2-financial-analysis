@@ -1,1 +1,1 @@
-# project-2-financial-analysis
+# Economic Indicators and Financial Market Analysis
