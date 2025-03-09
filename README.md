@@ -29,7 +29,7 @@ THe world of finance is fascinating. Tracking and understanding the financial ma
   3. Different other correlations can be found in the notebook (e.g. construction of new homes goes down when unemployment rate increases.
 ).
 ## Extra materials
-- A detailed Jupyter notebook can be found in the [code]{/code} folder.
-- Relevant plots can be found in the [plot]{/plot} folder.
-- A ready-to-work-on data file (csv format) can be found in the [data]{/data} folder.
-- The final presentation is added to the [presentation]{/presentation} folder.
+- A detailed Jupyter notebook can be found in the [code](/code) folder.
+- Relevant plots can be found in the [plot](/plot) folder.
+- A ready-to-work-on data file (csv format) can be found in the [data](/data) folder.
+- The final presentation is added to the [presentation](/presentation) folder.
