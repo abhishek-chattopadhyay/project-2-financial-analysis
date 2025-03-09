@@ -26,8 +26,7 @@ THe world of finance is fascinating. Tracking and understanding the financial ma
 ### Key insights
   1. Univariate analysis shows historical events such as 2008 financial crisis and 2019 Covid-19 pandemic when S&P500 crashed more than 10% in a month
   2. Multiple correlations can be found between important economic indicators and S&P500 from the correlation matrix which shows how economic indicators affect the stock market.
-  3. Different other correlations can be found in the notebook (e.g. construction of new homes goes down when unemployment rate increases.
-).
+  3. Different other correlations can be found in the notebook (e.g. construction of new homes goes down when unemployment rate increases).
 ## Extra materials
 - A detailed Jupyter notebook can be found in the [code](/code) folder.
 - Relevant plots can be found in the [plot](/plot) folder.
