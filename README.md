@@ -8,8 +8,8 @@ THe world of finance is fascinating. Tracking and understanding the financial ma
 - To present the result to the stakeholders
 
 ## Data Sources
-- Economic indicators: [Federal Reserve Economic Data (FRED)]{https://fred.stlouisfed.org/}
-- Stock market data: [Yahoo finance]{https://finance.yahoo.com/}
+- Economic indicators: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
+- Stock market data: [Yahoo finance](https://finance.yahoo.com/)
 
 ## Methodology
 - Data Collection:
