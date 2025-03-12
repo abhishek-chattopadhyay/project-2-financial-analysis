@@ -1,5 +1,6 @@
 # auto push and commit file
-git_automate.sh
+git_automate.py
+fred_api_key.dat
 
 # Jupyter Notebooks
 .ipynb_checkpoints
