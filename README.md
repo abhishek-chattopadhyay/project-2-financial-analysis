@@ -1,34 +1,70 @@
-# Effect of Economic Indicators on Financial Market: A Data-driven Analysis
-THe world of finance is fascinating. Tracking and understanding the financial market is one of the most complex tasks. I am passionate about the economics and financial market. One of my hobbies is to understand how economic indicators affect the financial market, especially, the stock market. In this project, I have delved deep into this problem and try to find an answer. This project is a complete end-to-end data analysis project needed for Ironhack bootcamp.
+# Effect of Economic Indicators on Financial Markets: A Data-Driven Analysis
 
-## Objective of this project
-- To understand how economic indicators such as GDP, unemployment, inflation etc. affect S&P500.
-- To collect relevant data, clean them and make a dataset for analysis
-- To perform univariate and bivariate analysis between numerical and categorical data
-- To present the result to the stakeholders
+Understanding the dynamics of financial markets is both intellectually stimulating and analytically challenging. This project investigates the relationship between key economic indicators and financial market performance, with a particular focus on the S&P 500 index. Conducted as part of the Ironhack Data Science Bootcamp, this end-to-end data analysis project combines data collection, cleaning, analysis, and presentation.
 
-## Data Sources
-- Economic indicators: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
-- Stock market data: [Yahoo finance](https://finance.yahoo.com/)
+---
 
-## Methodology
-- Data Collection:
-  - Using FRED API and python yfinance module to collect data
-- Data Wrangling:
-  - Merging all the series data into a dataframe
-  - Creating relevant categorical and numerical columns
-  - Replacing NaN values
-  - Creating a clean dataframe for further analysis
-- Exploratory Data Analysis(EDA):
-  - Univariate analysis
-  - Bivariate analysis
-## Results
-### Key insights
-  1. Univariate analysis shows historical events such as 2008 financial crisis and 2019 Covid-19 pandemic when S&P500 crashed more than 10% in a month
-  2. Multiple correlations can be found between important economic indicators and S&P500 from the correlation matrix which shows how economic indicators affect the stock market.
-  3. Different other correlations can be found in the notebook (e.g. construction of new homes goes down when unemployment rate increases).
-## Extra materials
-- A detailed Jupyter notebook can be found in the [code](/code) folder.
-- Relevant plots can be found in the [plot](/plot) folder.
-- A ready-to-work-on data file (csv format) can be found in the [data](/data) folder.
-- The final presentation is added to the [presentation](/presentation) folder.
+## 📌 Project Objective
+
+- Analyze how economic indicators such as GDP, unemployment rate, and inflation impact the S&P 500.
+- Collect and consolidate relevant data into a clean dataset suitable for analysis.
+- Perform univariate and bivariate analysis on numerical and categorical data.
+- Communicate findings effectively to stakeholders through visualizations and presentations.
+
+---
+
+## 📊 Data Sources
+
+- **Economic Indicators:** [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
+- **Stock Market Data:** [Yahoo Finance](https://finance.yahoo.com/)
+
+---
+
+## 🔍 Methodology
+
+### 1. **Data Collection**
+- Utilized the FRED API to fetch economic indicators.
+- Extracted historical S&P 500 data using the `yfinance` Python module.
+
+### 2. **Data Wrangling**
+- Merged multiple time series into a unified DataFrame.
+- Engineered relevant numerical and categorical features.
+- Handled missing values appropriately.
+- Created a clean dataset for analysis.
+
+### 3. **Exploratory Data Analysis (EDA)**
+- Conducted univariate and bivariate analysis to explore data distributions and relationships.
+- Computed correlation matrices and visualized key insights.
+
+---
+
+## 📈 Results & Insights
+
+### Key Findings:
+1. **Market Crashes & Historical Events:**  
+   Univariate analysis captured significant market downturns such as the 2008 Financial Crisis and the COVID-19 crash in early 2020—both instances when the S&P 500 dropped over 10% in a single month.
+
+2. **Correlations with Economic Indicators:**  
+   Correlation matrices reveal significant relationships between economic indicators and the S&P 500, highlighting the macroeconomic influence on stock performance.
+
+3. **Additional Insights:**  
+   For example, housing construction activity typically declines when the unemployment rate rises—a pattern supported by bivariate analysis.
+
+---
+
+## 📁 Project Structure
+
+- [`/code`](./code): Contains the detailed Jupyter notebook with all code and analysis steps.
+- [`/plot`](./plot): Includes all relevant visualizations and plots used in the analysis.
+- [`/data`](./data): Ready-to-use cleaned dataset in CSV format.
+- [`/presentation`](./presentation): Final stakeholder presentation summarizing findings and recommendations.
+
+---
+
+## 📬 Contact
+
+If you have questions or feedback about this project, feel free to connect via [LinkedIn](https://www.linkedin.com/in/abhishekchemistry).
+
+---
+
+**Disclaimer:** This project is for educational purposes and does not constitute financial advice.
