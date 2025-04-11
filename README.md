@@ -31,4 +31,4 @@ THe world of finance is fascinating. Tracking and understanding the financial ma
 - A detailed Jupyter notebook can be found in the [code](/code) folder.
 - Relevant plots can be found in the [plot](/plot) folder.
 - A ready-to-work-on data file (csv format) can be found in the [data](/data) folder.
-- The final presentation is added to the [presentation](/presentation) folder. Hallo
+- The final presentation is added to the [presentation](/presentation) folder.
