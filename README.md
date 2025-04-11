@@ -2,8 +2,6 @@
 
 Understanding the dynamics of financial markets is both intellectually stimulating and analytically challenging. This project investigates the relationship between key economic indicators and financial market performance, with a particular focus on the S&P 500 index. Conducted as part of the Ironhack Data Science Bootcamp, this end-to-end data analysis project combines data collection, cleaning, analysis, and presentation.
 
----
-
 ## 📌 Project Objective
 
 - Analyze how economic indicators such as GDP, unemployment rate, and inflation impact the S&P 500.
@@ -11,14 +9,10 @@ Understanding the dynamics of financial markets is both intellectually stimulati
 - Perform univariate and bivariate analysis on numerical and categorical data.
 - Communicate findings effectively to stakeholders through visualizations and presentations.
 
----
-
 ## 📊 Data Sources
 
 - **Economic Indicators:** [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
 - **Stock Market Data:** [Yahoo Finance](https://finance.yahoo.com/)
-
----
 
 ## 🔍 Methodology
 
@@ -35,8 +29,6 @@ Understanding the dynamics of financial markets is both intellectually stimulati
 ### 3. **Exploratory Data Analysis (EDA)**
 - Conducted univariate and bivariate analysis to explore data distributions and relationships.
 - Computed correlation matrices and visualized key insights.
-
----
 
 ## 📈 Results & Insights
 
@@ -56,15 +48,9 @@ Understanding the dynamics of financial markets is both intellectually stimulati
 
 - [`/code`](./code): Contains the detailed Jupyter notebook with all code and analysis steps.
 - [`/plot`](./plot): Includes all relevant visualizations and plots used in the analysis.
-- [`/data`](./data): Ready-to-use cleaned dataset in CSV format.
 - [`/presentation`](./presentation): Final stakeholder presentation summarizing findings and recommendations.
-
----
 
 ## 📬 Contact
 
-If you have questions or feedback about this project, feel free to connect via [LinkedIn](https://www.linkedin.com/in/abhishekchemistry).
-
----
-
+If you have questions or feedback about this project, feel free to connect via [LinkedIn](https://www.linkedin.com/in/abhishekchemistry).  
 **Disclaimer:** This project is for educational purposes and does not constitute financial advice.
